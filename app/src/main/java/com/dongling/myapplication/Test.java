@@ -13,9 +13,10 @@ public class Test extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        initView();
+        initViewss();
     }
 
-    private void initView() {
+    private void initViewss() {
     }
+
 }
